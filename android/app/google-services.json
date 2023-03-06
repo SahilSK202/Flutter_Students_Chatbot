@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36125817771",
+    "project_id": "studentsplacementchatbot",
+    "storage_bucket": "studentsplacementchatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36125817771:android:3a49041003659aa33630ee",
+        "android_client_info": {
+          "package_name": "com.example.flutterchatbotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36125817771-vqpb238b9l1o8ne4qf1n8t0giit6gue1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmacVg1Cg-FoY1zyrm3O2VyUb-IPrY4_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36125817771-vqpb238b9l1o8ne4qf1n8t0giit6gue1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
